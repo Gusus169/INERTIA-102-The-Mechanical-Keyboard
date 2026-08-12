@@ -18,17 +18,36 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 - Designed for Cherry-MX type switches and stabilisers
 
 
+## Renders
+
+![render1](assets/Render5.png)
+
+
+
+
 ## PCB
 ### Schematic
+<table>
+  <tr>
+    <td><img src="assets/schematic1" width="300" alt="schematic1"></td>
+    <td><img src="assets/schematic2" width="300" alt="schematic2"></td>
+    <td><img src="assets/schematic3" width="300" alt="schematic3"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/PCB front" width="300" alt="PCB front"></td>
+    <td><img src="assets/PCB back" width="300" alt="PCB back"></td>
+    <td><img src="assets/MCU zoom" width="300" alt="MCU zoom"></td>
+  </tr>
+</table>
 
-![Schematic](assets/schematic.png.png)
+![Schematic](assets/schematic.png)
 
 
 **Front Routing:**
 
 
 
-![PCB Front](assets/pcb_front.png.png)
+![PCB Front](assets/pcb_front.png)
 
 
 
@@ -37,7 +56,7 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 
 
 
-![PCB Back](assets/pcb_back.png.png)
+![PCB Back](assets/pcb_back.png)
 
 
 
@@ -45,7 +64,7 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 
 
 
-![PCB Front](assets/assemblyfront)
+![PCB Front](assets/assemblyfront.png)
 
 
 
@@ -54,4 +73,4 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 
 
 
-![PCB Back](assets/assemblyback)
+![PCB Back](assets/assemblyback.png)
