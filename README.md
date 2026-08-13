@@ -29,25 +29,28 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 ### Schematic
 <table>
   <tr>
-    <td><img src="assets/schematic1" width="300" alt="schematic1"></td>
-    <td><img src="assets/schematic2" width="300" alt="schematic2"></td>
-    <td><img src="assets/schematic3" width="300" alt="schematic3"></td>
+    <td><img src="assets/schematicg.png" width="300" alt="schematic1"></td>
+    <td><img src="assets/schematic2.png" width="300" alt="schematic2"></td>
+    <td><img src="assets/schematic3.png" width="300" alt="schematic3"></td>
   </tr>
   <tr>
-    <td><img src="assets/PCB front" width="300" alt="PCB front"></td>
-    <td><img src="assets/PCB back" width="300" alt="PCB back"></td>
-    <td><img src="assets/MCU zoom" width="300" alt="MCU zoom"></td>
+    <td><img src="assets/PCB front.png" width="300" alt="PCB front"></td>
+    <td><img src="assets/PCB back.png" width="300" alt="PCB back"></td>
+    <td><img src="assets/MCU zoom.png" width="300" alt="MCU zoom"></td>
   </tr>
 </table>
 
 ![Schematic](assets/schematic.png)
+<img src="assets/schematicg.png" width="300" alt="schematic1">
+<img src="assets/schematic2.png" width="300" alt="schematic2">
+<img src="assets/schematic3.png" width="300" alt="schematic3">
 
 
 **Front Routing:**
 
 
 
-![PCB Front](assets/pcb_front.png)
+![PCB Front]( assets/PCB front.png)
 
 
 
@@ -56,7 +59,7 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 
 
 
-![PCB Back](assets/pcb_back.png)
+![PCB Back](assets/schematic2.png)
 
 
 
