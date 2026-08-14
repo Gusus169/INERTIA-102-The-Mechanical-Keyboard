@@ -1,7 +1,7 @@
 # 'INERTIA-102' The-Mechanical-Keyboard
 A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 processor, a lot of RGB and much more!
 
-![Banner](assets/banner.png)
+![Banner](assets/Render25.png)
 
 'INERTIA-102' the name comes from the physics concept defined as the natural tendency of an object to resist changes in its state of motion. Implying the fact that the one using this keyboard is likely to reach a flow state, and the '102' part is just because the keyboard has that many keys 
 
@@ -20,30 +20,53 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 
 ## Renders
 
-![render1](assets/Render5.png)
-
-
+<table>
+   </tr>
+    <td><img src="assets/Render25.png" width="500" alt="Render25"></td>
+    <td><img src="assets/Render26.png" width="500" alt="Render26"></td>
+   </tr>
+  </tr>
+    <td><img src="assets/Render24.png" width="500" alt="Render24"></td>
+    <td><img src="assets/Render23.png" width="500" alt="Render23"></td>
+   </tr>
+  </tr>
+    <td><img src="assets/Render21.png" width="500" alt="Render21"></td>
+    <td><img src="assets/Render22.png" width="500" alt="Render22"></td>
+   </tr>
+   </tr>
+    <td><img src="assets/Render5.png" width="500" alt="Render5"></td>
+    <td><img src="assets/Render8.png" width="500" alt="Render8"></td>
+   </tr>
+    </tr>
+    <td><img src="assets/Render17.png" width="500" alt="Render17"></td>
+    <td><img src="assets/Render18.png" width="500" alt="Render18"></td>
+   </tr>
+</table>
 
 
 ## PCB
 ### Schematic
 <table>
-  <tr>
-    <td><img src="assets/schematicg.png" width="300" alt="schematic1"></td>
-    <td><img src="assets/schematic2.png" width="300" alt="schematic2"></td>
-    <td><img src="assets/schematic3.png" width="300" alt="schematic3"></td>
   </tr>
+    <td><img src="assets/schematic1.png" width="2000" alt="schematic1"></td>
+  </tr>
+  <table>
+    </tr>
+    <td><img src="assets/schematic2.png" width="500" alt="schematic1"></td>
+    <td><img src="assets/schematic3.png" width="500" alt="schematic2"></td>
+    
   <tr>
-    <td><img src="assets/PCB front.png" width="300" alt="PCB front"></td>
-    <td><img src="assets/PCB back.png" width="300" alt="PCB back"></td>
-    <td><img src="assets/MCU zoom.png" width="300" alt="MCU zoom"></td>
+    <td><img src="assets/PCB front.png" width="1000" alt="PCB front"></td>
+    <td><img src="assets/PCB back.png" width="1000" alt="PCB back"></td>
+  
+  </tr>
+  </tr>
+  <td><img src="assets/MCU zoom.png" width="300" alt="MCU zoom"></td>
   </tr>
 </table>
 
-![Schematic](assets/schematic.png)
-<img src="assets/schematicg.png" width="300" alt="schematic1">
-<img src="assets/schematic2.png" width="300" alt="schematic2">
-<img src="assets/schematic3.png" width="300" alt="schematic3">
+
+
 
 
 **Front Routing:**
