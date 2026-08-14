@@ -1,7 +1,7 @@
 # 'INERTIA-102' The-Mechanical-Keyboard
 A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 processor, a lot of RGB and much more!
 
-![Banner](assets/Render25.png)
+![Banner](assets/Render25.png?v=1)
 
 'INERTIA-102' the name comes from the physics concept defined as the natural tendency of an object to resist changes in its state of motion. Implying the fact that the one using this keyboard is likely to reach a flow state, and the '102' part is just because the keyboard has that many keys 
 
@@ -22,46 +22,54 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 
 <table>
    </tr>
-    <td><img src="assets/Render25.png" width="500" alt="Render25"></td>
-    <td><img src="assets/Render26.png" width="500" alt="Render26"></td>
+    <td><img src="assets/Render25.png?v=1" width="500" alt="Render25"></td>
+    <td><img src="assets/Render26.png?v=1" width="500" alt="Render26"></td>
    </tr>
   </tr>
-    <td><img src="assets/Render24.png" width="500" alt="Render24"></td>
-    <td><img src="assets/Render23.png" width="500" alt="Render23"></td>
+    <td><img src="assets/Render24.png?v=1" width="500" alt="Render24"></td>
+    <td><img src="assets/Render23.png?v=1" width="500" alt="Render23"></td>
    </tr>
   </tr>
-    <td><img src="assets/Render21.png" width="500" alt="Render21"></td>
-    <td><img src="assets/Render22.png" width="500" alt="Render22"></td>
+    <td><img src="assets/Render21.png?v=1" width="500" alt="Render21"></td>
+    <td><img src="assets/Render22.png?v=1" width="500" alt="Render22"></td>
    </tr>
    </tr>
-    <td><img src="assets/Render5.png" width="500" alt="Render5"></td>
-    <td><img src="assets/Render8.png" width="500" alt="Render8"></td>
+    <td><img src="assets/Render5.png?v=1" width="500" alt="Render5"></td>
+    <td><img src="assets/Render8.png?v=1" width="500" alt="Render8"></td>
    </tr>
     </tr>
-    <td><img src="assets/Render17.png" width="500" alt="Render17"></td>
-    <td><img src="assets/Render18.png" width="500" alt="Render18"></td>
+    <td><img src="assets/Render17.png?v=1" width="500" alt="Render17"></td>
+    <td><img src="assets/Render18.png?v=1" width="500" alt="Render18"></td>
    </tr>
 </table>
 
 
 ## PCB
-### Schematic
+### Schematic & Routing
+
+
 <table>
+  <tr align="center">
+    <td><img src="assets/schematic1.png?v=1" width="3000" alt="schematic1"></td>
   </tr>
-    <td><img src="assets/schematic1.png" width="2000" alt="schematic1"></td>
+  
+<table>  
   </tr>
-  <table>
-    </tr>
-    <td><img src="assets/schematic2.png" width="500" alt="schematic1"></td>
-    <td><img src="assets/schematic3.png" width="500" alt="schematic2"></td>
-    
-  <tr>
-    <td><img src="assets/PCB front.png" width="1000" alt="PCB front"></td>
-    <td><img src="assets/PCB back.png" width="1000" alt="PCB back"></td>
+  
+  <td align="center">
+    <center><b> The Switches </b></center> 
+    <img src="assets/schematic2.png?v=1" width="500" alt="schematic1">
+    <center><b> Front Layer Routing </b></center>  
+    <img src="assets/PCB front.png?v=1" width="1000" alt="PCB front">  
+  <td align="center">
+     <center><b> The RGBs </b></center> 
+     <img src="assets/schematic3.png?v=1" width="500" alt="schematic1">
+     <center><b> Back Layer Routing </b></center>  
+     <img src="assets/PCB back.png?v=1" width="1000" alt="PCB back">
   
   </tr>
-  </tr>
-  <td><img src="assets/MCU zoom.png" width="300" alt="MCU zoom"></td>
+  <tr>
+  <td><img src="assets/MCU zoom.png?v=1" width="300" alt="MCU zoom"></td>
   </tr>
 </table>
 
@@ -69,20 +77,7 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 
 
 
-**Front Routing:**
 
-
-
-![PCB Front]( assets/PCB front.png)
-
-
-
-**Back Routing:**
-
-
-
-
-![PCB Back](assets/schematic2.png)
 
 
 
