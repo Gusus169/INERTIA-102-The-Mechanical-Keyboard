@@ -21,26 +21,31 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
 ## Renders
 
 <table>
-   </tr>
+  </tr>
     <td><img src="assets/Render25.png?v=1" width="500" alt="Render25"></td>
-    <td><img src="assets/Render26.png?v=1" width="500" alt="Render26"></td>
-   </tr>
-  </tr>
     <td><img src="assets/Render24.png?v=1" width="500" alt="Render24"></td>
-    <td><img src="assets/Render23.png?v=1" width="500" alt="Render23"></td>
-   </tr>
+    <td><img src="assets/Render26.png?v=1" width="500" alt="Render26"></td>
   </tr>
-    <td><img src="assets/Render21.png?v=1" width="500" alt="Render21"></td>
+  </tr>
+    <td><img src="assets/Render23.png?v=1" width="500" alt="Render23"></td>
     <td><img src="assets/Render22.png?v=1" width="500" alt="Render22"></td>
+    <td><img src="assets/Render17.png?v=1" width="500" alt="Render17"></td>
    </tr>
    </tr>
     <td><img src="assets/Render5.png?v=1" width="500" alt="Render5"></td>
-    <td><img src="assets/Render8.png?v=1" width="500" alt="Render8"></td>
+    <td><img src="assets/Render9.png?v=1" width="500" alt="Render8"></td>
+    <td><img src="assets/Render8.png?v=1" width="500" alt="Render5"></td>
+   
+   
    </tr>
-    </tr>
-    <td><img src="assets/Render17.png?v=1" width="500" alt="Render17"></td>
-    <td><img src="assets/Render18.png?v=1" width="500" alt="Render18"></td>
    </tr>
+    <td><img src="assets/Render11.png?v=1" width="500" alt="Render17"></td>
+    <td><img src="assets/Render12.png?v=1" width="500" alt="Render12"></td>
+    <td><img src="assets/Render10.png?v=1" width="500" alt="Render10"></td>
+   </tr>
+    
+   </tr>
+   
 </table>
 
 
