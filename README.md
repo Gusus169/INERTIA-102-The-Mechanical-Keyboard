@@ -1,7 +1,10 @@
 # 'INERTIA-102' The-Mechanical-Keyboard
 A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 processor, a lot of RGB and much more!
 
-![Banner](assets/Render25.png?v=1)
+![Banner1](assets/Render26.png?v=1)
+
+![Banner2](assets/Render22.png?v=1)
+
 
 'INERTIA-102' the name comes from the physics concept defined as the natural tendency of an object to resist changes in its state of motion. Implying the fact that the one using this keyboard is likely to reach a flow state, and the '102' part is just because the keyboard has that many keys 
 
@@ -73,9 +76,11 @@ A fully custom Mechanical Hot-swapable keyboard featuring an integrated RP2040 p
      <img src="assets/PCB back.png?v=1" width="1000" alt="PCB back">
   
   </tr>
-  <tr>
-  <td><img src="assets/MCU zoom.png?v=1" width="300" alt="MCU zoom"></td>
+  <table align="center">
+  <tr align="center">
+  <td><img src="assets/MCU zoom.png?v=1" width="400" alt="MCU zoom"></td>
   </tr>
+  </table>
 </table>
 
 
